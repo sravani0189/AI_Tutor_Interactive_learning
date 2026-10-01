@@ -1,0 +1,19 @@
+{
+  "dataset": "Merged_Chapter_Dataset_recovered.csv",
+  "number_of_pairs": 486,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "retrieval_document": "prepared question + prepared answer",
+  "top_k": 5,
+  "top1_hits": 480,
+  "top1_recall": 0.9876543209876543,
+  "top3_hits": 486,
+  "top3_recall": 1.0,
+  "top5_hits": 486,
+  "top5_recall": 1.0,
+  "chapter_top1_hits": 485,
+  "chapter_top1_accuracy": 0.9979423868312757,
+  "mrr": 0.9938271604938271,
+  "median_true_rank": 1.0,
+  "mean_top1_similarity": 0.88204135828548,
+  "mean_true_pair_similarity": 0.8819455378094818
+}

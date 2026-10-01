@@ -1,0 +1,53 @@
+{
+  "dataset": "Merged_Chapter_Dataset_recovered.csv",
+  "question_file": "abstention_questions.csv",
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "random_seed": 42,
+  "retrieval_top_k": 3,
+  "threshold_candidates": [
+    0.2,
+    0.225,
+    0.25,
+    0.275,
+    0.3,
+    0.325,
+    0.35,
+    0.375,
+    0.4,
+    0.425,
+    0.45,
+    0.475,
+    0.5,
+    0.525,
+    0.55,
+    0.575,
+    0.6,
+    0.625,
+    0.65,
+    0.675,
+    0.7,
+    0.725,
+    0.75,
+    0.775,
+    0.8
+  ],
+  "development_size": 30,
+  "test_size": 30,
+  "development_answerable": 15,
+  "development_unanswerable": 15,
+  "test_answerable": 15,
+  "test_unanswerable": 15,
+  "selected_threshold": 0.475,
+  "test_false_abstention_rate": 0.0,
+  "test_false_abstention_ci_95": [
+    0.0,
+    0.0
+  ],
+  "test_unsupported_answer_rate": 0.4666666666666667,
+  "test_unsupported_answer_ci_95": [
+    0.2,
+    0.7333333333333333
+  ],
+  "false_abstention_count": 0,
+  "unsupported_answer_count": 7
+}

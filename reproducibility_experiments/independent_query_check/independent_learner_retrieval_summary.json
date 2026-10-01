@@ -1,0 +1,54 @@
+{
+  "benchmark": "independently_worded_learner_style_questions",
+  "n_questions": 43,
+  "n_retrieval_sections": 83,
+  "question_construction": "Questions constructed from isolated textbook source text without access to prepared QA pairs.",
+  "frozen_parameters": {
+    "tfidf_ngram_range": [
+      1,
+      2
+    ],
+    "tfidf_sublinear_tf": true,
+    "tfidf_norm": "l2",
+    "bm25_k1": 0.8,
+    "bm25_b": 0.9,
+    "hybrid_alpha": 0.8
+  },
+  "results": {
+    "tfidf": {
+      "Recall@1": 0.8372093023255814,
+      "Recall@3": 0.9302325581395349,
+      "Recall@5": 0.9767441860465116,
+      "MRR": 0.8926356589147286
+    },
+    "bm25": {
+      "Recall@1": 0.627906976744186,
+      "Recall@3": 0.8372093023255814,
+      "Recall@5": 0.9534883720930233,
+      "MRR": 0.7549833887043189
+    },
+    "hybrid": {
+      "Recall@1": 0.8372093023255814,
+      "Recall@3": 0.9302325581395349,
+      "Recall@5": 0.9767441860465116,
+      "MRR": 0.889922480620155
+    }
+  },
+  "chapter_distribution": {
+    "1": 3,
+    "2": 3,
+    "3": 3,
+    "4": 3,
+    "5": 3,
+    "6": 3,
+    "7": 3,
+    "8": 3,
+    "9": 3,
+    "10": 3,
+    "11": 2,
+    "12": 3,
+    "13": 3,
+    "14": 3,
+    "15": 2
+  }
+}

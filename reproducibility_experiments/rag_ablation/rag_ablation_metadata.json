@@ -1,0 +1,30 @@
+{
+  "dataset": "Merged_Chapter_Dataset_recovered.csv",
+  "number_of_available_pairs": 486,
+  "number_of_evaluation_questions": 40,
+  "sampling_method": "simple random sample without replacement",
+  "sampling_seed": 42,
+  "sample_fixed_before_generation": true,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "generation_model": "tiiuae/falcon-rw-1b",
+  "retrieval_k": 3,
+  "rag_on": "top-3 prepared instructional Q-A resources supplied",
+  "rag_off": "no retrieved instructional context supplied",
+  "generation_do_sample": false,
+  "generation_max_input_tokens": 768,
+  "generation_max_new_tokens": 160,
+  "paired_design": true,
+  "blinded_review": true,
+  "blinding_method": "RAG ON/OFF randomly mapped to Response A/B using fixed seed",
+  "human_raters": 1,
+  "rubric": {
+    "factuality": "0-2",
+    "grounding": "0-2",
+    "clarity": "0-1",
+    "maximum_total": 5
+  },
+  "planned_primary_analysis": "paired comparison of total rubric scores",
+  "planned_test": "Wilcoxon signed-rank test",
+  "planned_confidence_interval": "95% bootstrap CI for paired mean score difference",
+  "bootstrap_resamples": 10000
+}

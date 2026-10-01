@@ -1,0 +1,82 @@
+{
+  "n_questions": 40,
+  "sampling_seed": 42,
+  "generation_model": "tiiuae/falcon-rw-1b",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "retrieval_k": 3,
+  "design": "paired RAG ON vs RAG OFF",
+  "blinded_human_review": true,
+  "primary_score": "factuality + grounding + clarity, maximum 5",
+  "rag_on_total": {
+    "mean": 4.85,
+    "median": 5.0,
+    "std": 0.6998168258505864,
+    "min": 1.0,
+    "max": 5.0
+  },
+  "rag_off_total": {
+    "mean": 1.55,
+    "median": 2.0,
+    "std": 1.218447940872069,
+    "min": 0.0,
+    "max": 4.0
+  },
+  "paired_difference": {
+    "mean": 3.3,
+    "median": 3.0,
+    "95_percent_bootstrap_CI": [
+      2.925,
+      3.675
+    ]
+  },
+  "pairwise_counts": {
+    "rag_on_higher": 40,
+    "ties": 0,
+    "rag_on_lower": 0
+  },
+  "primary_wilcoxon": {
+    "statistic": 0.0,
+    "p_value": 1.541725790028002e-08,
+    "n_nonzero_pairs": 40
+  },
+  "component_results": {
+    "factuality": {
+      "ON_mean": 1.925,
+      "OFF_mean": 0.8,
+      "mean_difference": 1.125,
+      "95_bootstrap_CI": [
+        0.925,
+        1.325
+      ],
+      "wilcoxon_statistic": 0.0,
+      "p_value": 1.1054246838102009e-07
+    },
+    "grounding": {
+      "ON_mean": 1.925,
+      "OFF_mean": 0.725,
+      "mean_difference": 1.2,
+      "95_bootstrap_CI": [
+        1.025,
+        1.375
+      ],
+      "wilcoxon_statistic": 0.0,
+      "p_value": 4.933074420615144e-08
+    },
+    "clarity": {
+      "ON_mean": 1.0,
+      "OFF_mean": 0.025,
+      "mean_difference": 0.975,
+      "95_bootstrap_CI": [
+        0.925,
+        1.0
+      ],
+      "wilcoxon_statistic": 0.0,
+      "p_value": 4.2380554260794433e-10
+    }
+  },
+  "bootstrap": {
+    "seed": 42,
+    "resamples": 10000,
+    "ci": "percentile 95% CI"
+  }
+}

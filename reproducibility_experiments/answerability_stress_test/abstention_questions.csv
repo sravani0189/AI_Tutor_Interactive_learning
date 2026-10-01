@@ -1,0 +1,61 @@
+id,label,chapter,question
+A01,answerable,9.3 Calculations and Basic Formulas in Microsoft Excel,How can a formula be used to perform a calculation in an Excel worksheet?
+A02,answerable,9.3 Calculations and Basic Formulas in Microsoft Excel,What role do cell references play when constructing an Excel formula?
+A03,answerable,9.4 Formatting and Templates in Microsoft Excel,How can formatting make information in a worksheet easier to interpret?
+A04,answerable,9.4 Formatting and Templates in Microsoft Excel,Why might someone use a template instead of building a worksheet entirely from scratch?
+A05,answerable,10.2 More About Formulas,Why would a spreadsheet user combine cell references with operators in a formula?
+A06,answerable,10.2 More About Formulas,How do formulas allow a spreadsheet to update calculated results?
+A07,answerable,10.6 Advanced Formatting Techniques,What is the purpose of applying advanced formatting to spreadsheet information?
+A08,answerable,"11.1 Understanding Data, Data Validation, and Data Tables",How does data validation help control what users enter into a worksheet?
+A09,answerable,"11.1 Understanding Data, Data Validation, and Data Tables",Why can organizing information as a data table be useful for spreadsheet analysis?
+A10,answerable,11.2 Statistical Functions,Why would a spreadsheet user apply a statistical function to a collection of values?
+A11,answerable,11.3 What-If Analysis,How can What-If Analysis help a user examine possible outcomes in a spreadsheet?
+A12,answerable,11.3 What-If Analysis,Why might a user change input values when performing What-If Analysis?
+A13,answerable,11.4 PivotTables/Charts,How can a PivotTable help someone analyze a large collection of data?
+A14,answerable,11.4 PivotTables/Charts,What can slicers be used for in PivotTables?
+A15,answerable,11.5 Data Analysis Charts,How can charts help users recognize patterns in spreadsheet data?
+A16,answerable,12.1 Basic Accounting,What is managerial accounting used for?
+A17,answerable,12.2 Financial Functions in Microsoft Excel,Why are financial functions useful when performing financial calculations in Excel?
+A18,answerable,12.3 Integrating Microsoft Excel and Accounting Programs,Why might an organization transfer information between Excel and accounting software?
+A19,answerable,13.1 What Is a Database?,How does a database help organize related information?
+A20,answerable,13.1 What Is a Database?,Why is structured storage useful when managing a large collection of records?
+A21,answerable,13.3 Querying a Database,How does a query help a user locate particular information in a database?
+A22,answerable,13.3 Querying a Database,Why might a database user apply criteria when running a query?
+A23,answerable,13.4 Maintaining Records in a Database,What operations can Microsoft Access perform on database records?
+A24,answerable,13.5 Creating Reports in Microsoft Access,How can an Access report help present database information?
+A25,answerable,13.6 Creating Forms in Microsoft Access,How can a form make interacting with database records easier?
+A26,answerable,14.3 Customizing Forms,Why might an Access user customize the layout of a form?
+A27,answerable,15.1 Microsoft 365: Collaboration and Integration,How can Microsoft 365 tools support people working together on shared information?
+A28,answerable,"15.2 Microsoft Word: Integration with Microsoft Excel and Microsoft Access",Why might information from Excel be incorporated into a Word document?
+A29,answerable,2.6 Collaboration,How can collaboration software help several people contribute to the same project?
+A30,answerable,3.8 Collaborative Editing and Reviewing in Google Docs,How does collaborative editing allow multiple users to work on a Google document?
+U01,unanswerable,9.3 Calculations and Basic Formulas in Microsoft Excel,Which machine-learning algorithm gives the highest accuracy when forecasting future Excel workbook values?
+U02,unanswerable,9.3 Calculations and Basic Formulas in Microsoft Excel,What GPU architecture does Microsoft use to execute ordinary Excel arithmetic formulas?
+U03,unanswerable,9.4 Formatting and Templates in Microsoft Excel,What exact percentage increase in employee productivity results from using a professionally formatted Excel template?
+U04,unanswerable,9.4 Formatting and Templates in Microsoft Excel,Which Excel template was used by NASA during the Apollo 11 mission?
+U05,unanswerable,10.2 More About Formulas,What neural-network architecture does Excel use internally to evaluate standard arithmetic formulas?
+U06,unanswerable,10.2 More About Formulas,How much electricity in watt-hours is consumed when Excel evaluates one formula?
+U07,unanswerable,10.6 Advanced Formatting Techniques,What is the scientifically optimal font color for maximizing spreadsheet memory retention?
+U08,unanswerable,"11.1 Understanding Data, Data Validation, and Data Tables",What false-entry rate will data validation guarantee for every organization that uses it?
+U09,unanswerable,"11.1 Understanding Data, Data Validation, and Data Tables",Which database engine physically stores every Excel data table in Microsoft's cloud?
+U10,unanswerable,11.2 Statistical Functions,What statistical function can guarantee the value of next year's stock market index?
+U11,unanswerable,11.3 What-If Analysis,What will Apple's exact annual revenue be five years from now according to Excel What-If Analysis?
+U12,unanswerable,11.3 What-If Analysis,Which What-If Analysis result guarantees that a new business will be profitable?
+U13,unanswerable,11.4 PivotTables/Charts,How many milliseconds will every PivotTable require to refresh on all computers?
+U14,unanswerable,11.4 PivotTables/Charts,Which PivotTable layout has been scientifically proven to maximize employee productivity?
+U15,unanswerable,11.5 Data Analysis Charts,Which chart type guarantees that every viewer will correctly interpret the data?
+U16,unanswerable,12.1 Basic Accounting,What will the exact United States inflation rate be ten years from now?
+U17,unanswerable,12.2 Financial Functions in Microsoft Excel,Which Excel financial function can guarantee that an investment will make a profit?
+U18,unanswerable,12.3 Integrating Microsoft Excel and Accounting Programs,Which accounting software will have the largest global market share in 2035?
+U19,unanswerable,13.1 What Is a Database?,How many databases currently exist on every computer connected to the Internet?
+U20,unanswerable,13.1 What Is a Database?,Which database product will have the largest worldwide market share in 2040?
+U21,unanswerable,13.3 Querying a Database,What database query can reveal a user's password when the password is not stored in the database?
+U22,unanswerable,13.3 Querying a Database,How many milliseconds will every database query take regardless of the database size or hardware?
+U23,unanswerable,13.4 Maintaining Records in a Database,What percentage of all database records worldwide currently contain an error?
+U24,unanswerable,13.5 Creating Reports in Microsoft Access,What Access report design guarantees that every reader will make the correct business decision?
+U25,unanswerable,13.6 Creating Forms in Microsoft Access,Which form layout guarantees zero data-entry mistakes for every user?
+U26,unanswerable,14.3 Customizing Forms,What exact productivity increase will every company obtain by customizing an Access form?
+U27,unanswerable,15.1 Microsoft 365: Collaboration and Integration,How many Microsoft 365 documents are being edited worldwide at this exact second?
+U28,unanswerable,"15.2 Microsoft Word: Integration with Microsoft Excel and Microsoft Access",What is the largest Word document ever created using data imported from Excel?
+U29,unanswerable,2.6 Collaboration,What exact percentage increase in team intelligence is guaranteed by using collaboration software?
+U30,unanswerable,3.8 Collaborative Editing and Reviewing in Google Docs,How many people worldwide are editing Google Docs at this exact moment?

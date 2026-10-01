@@ -1,0 +1,99 @@
+query,section,Recall@1,Precision@1,Recall@3,Precision@3,Recall@5,Precision@5
+What are the benefits of using social media platforms for business?,8.5 Social Media in Business,1,1.0,1,0.3333333333333333,1,0.2
+What is the purpose of the Text command group in Microsoft Word?,4.2 Working with Graphics and Text Tools in Microsoft Word,1,1.0,1,0.3333333333333333,1,0.2
+What is a workbook in Excel?,9.1 Microsoft Excel Basics,1,1.0,1,0.3333333333333333,1,0.2
+Write a function to multiply 5 and 3.,9.3 Calculations and Basic Formulas in Microsoft Excel,1,1.0,1,0.3333333333333333,1,0.2
+What is the purpose of the Align & Indent tool in Google Slides?,6.6 Creating Google Slides: Layout and Text,1,1.0,1,0.3333333333333333,1,0.2
+What is the action bar in Google Sheets called?,9.5 Google Sheets Basics,1,1.0,1,0.3333333333333333,1,0.2
+What are the benefits of using calendar applications in organizations?,2.3 Communication and Calendar Applications,1,1.0,1,0.3333333333333333,1,0.2
+What is the purpose of themes in Microsoft Word?,3.5 Document Design,0,0.0,0,0.0,0,0.0
+What is the main disadvantage of using Excel over accounting software programs?,12.3 Integrating Microsoft Excel and Accounting Programs,1,1.0,1,0.3333333333333333,1,0.2
+What is the difference between the Page Background command group tools and the Page Layout command group tools?,3.5 Document Design,1,1.0,1,0.3333333333333333,1,0.2
+What are the basic components of a network?,1.2 Computer Hardware and Networks,1,1.0,1,0.3333333333333333,1,0.2
+How does Microsoft 365 handle changes in the source file when using embedded or linked information?,15.1 Microsoft 365: Collaboration and Integration,1,1.0,1,0.3333333333333333,1,0.2
+What is the difference between the COUNT function and the COUNTIF function?,9.7 Calculations and Basic Formulas in Google Sheets,0,0.0,0,0.0,0,0.0
+What are the three types of shareable links in Google Docs?,5.6 Advanced Collaboration in Google Docs,1,1.0,1,0.3333333333333333,1,0.2
+What are the features in the Tools menu that facilitate a Q&A?,7.4 Preparing a Google Slides Collection for Presentation,1,1.0,1,0.3333333333333333,1,0.2
+What is the GUI of Excel?,9.1 Microsoft Excel Basics,1,1.0,1,0.3333333333333333,1,0.2
+How can a column chart be used to show comparisons between groups?,11.5 Data Analysis Charts,1,1.0,1,0.3333333333333333,1,0.2
+What is the acronym PEMDAS and how is it used in Excel formulas?,10.2 More About Formulas,1,1.0,1,0.3333333333333333,1,0.2
+How does understanding your audience influence the purpose of a presentation?,6.1 Presentation and Design Essentials,1,1.0,1,0.3333333333333333,1,0.2
+What is the main purpose of accounting?,12.1 Basic Accounting,0,0.0,0,0.0,0,0.0
+How can you add and configure page numbers in Word?,4.1 Microsoft Word: Advanced Formatting Features,1,1.0,1,0.3333333333333333,1,0.2
+What is the result of a merged document?,5.2 Mail Merge in Microsoft Word,1,1.0,1,0.3333333333333333,1,0.2
+What is the formula for calculating the periodic payment on an investment?,12.2 Financial Functions in Microsoft Excel,0,0.0,1,0.3333333333333333,1,0.2
+What are the similarities between Google Sheets and Excel?,9.8 Formatting and Templates in Google Sheets,0,0.0,0,0.0,0,0.0
+What is the purpose of IF function in Excel?,10.2 More About Formulas,1,1.0,1,0.3333333333333333,1,0.2
+What are the elements of a form that can be customized to company specific standards?,14.3 Customizing Forms,1,1.0,1,0.3333333333333333,1,0.2
+How do you manually activate the Developer tab in Word?,5.3 Creating Forms in Microsoft Word,1,1.0,1,0.3333333333333333,1,0.2
+What is the difference between basic graphs and other types of graphs in Sheets?,9.6 Text and Numbers in Google Sheets,1,1.0,1,0.3333333333333333,1,0.2
+What is the purpose of the PivotTable Analyze tab?,11.4 PivotTables/Charts,1,1.0,1,0.3333333333333333,1,0.2
+What is the purpose of the Goal Seek function in What-If Analysis?,11.3 What-If Analysis,1,1.0,1,0.3333333333333333,1,0.2
+What is an example of a situation where you would use the Goal Seek function?,11.3 What-If Analysis,1,1.0,1,0.3333333333333333,1,0.2
+How do you designate where the custom fields will be in the main document?,5.2 Mail Merge in Microsoft Word,1,1.0,1,0.3333333333333333,1,0.2
+What is the purpose of the Page Layout tab in Excel?,9.2 Text and Numbers in Microsoft Excel,0,0.0,1,0.3333333333333333,1,0.2
+How can you insert a timeline in a PivotTable?,11.4 PivotTables/Charts,0,0.0,0,0.0,0,0.0
+What are the key companies that have played a significant role in the evolution of computing?,1.1 Computing from Inception to Today,1,1.0,1,0.3333333333333333,1,0.2
+"What is the significance of HTML, URL, and DNS in the internet?","1.3 The Internet, Cloud Computing, and the Internet of Things",1,1.0,1,0.3333333333333333,1,0.2
+How do you calculate the square root of a number in Google Sheets?,9.7 Calculations and Basic Formulas in Google Sheets,0,0.0,0,0.0,0,0.0
+How can you design and print business cards in Word?,5.1 Creating Different Document Types in Microsoft Word,1,1.0,1,0.3333333333333333,1,0.2
+What is the purpose of exporting a Google Slides presentation to a PowerPoint file format?,6.5 Designing a Presentation in Google Slides,1,1.0,1,0.3333333333333333,1,0.2
+Can we customize reports to include images and custom text?,13.5 Creating Reports in Microsoft Access,1,1.0,1,0.3333333333333333,1,0.2
+How does the formatting of cells in Sheets work compared to Excel?,9.6 Text and Numbers in Google Sheets,0,0.0,1,0.3333333333333333,1,0.2
+How can you share and collaborate on documents through editing and commenting functions?,2.6 Collaboration,1,1.0,1,0.3333333333333333,1,0.2
+What is the Format Painter in Excel used for?,10.6 Advanced Formatting Techniques,0,0.0,1,0.3333333333333333,1,0.2
+"How can you customize the size and look of an image through various tools, including cropping, removing the background, and changing the transparency of the image?",7.2 Finalizing a Slide Collection,1,1.0,1,0.3333333333333333,1,0.2
+How does the Internet of Things connect the physical to the virtual?,"1.3 The Internet, Cloud Computing, and the Internet of Things",1,1.0,1,0.3333333333333333,1,0.2
+What is the main advantage of using Data Tables in Excel?,"11.1 Understanding Data, Data Validation, and Data Tables",0,0.0,1,0.3333333333333333,1,0.2
+What is the purpose of the MEDIAN function?,11.2 Statistical Functions,0,0.0,0,0.0,0,0.0
+"What is the difference between a table of contents, a table of figures, and a footnote?",4.3 Managing Long Documents in Microsoft Word,1,1.0,1,0.3333333333333333,1,0.2
+What is the purpose of a database management system (DBMS)?,13.4 Maintaining Records in a Database,0,0.0,0,0.0,0,0.0
+What are the statistical functions in Excel?,"10.3 Using Arithmetic, Statistical, and Logical Functions",1,1.0,1,0.3333333333333333,1,0.2
+What are the options found on the Design tab?,3.5 Document Design,1,1.0,1,0.3333333333333333,1,0.2
+What is the purpose of the Wrap Text command?,9.4 Formatting and Templates in Microsoft Excel,1,1.0,1,0.3333333333333333,1,0.2
+How can you add controls such as command buttons or combo boxes to a form?,14.3 Customizing Forms,1,1.0,1,0.3333333333333333,1,0.2
+What is the result of the following function: SUM(5-3)*2?,9.3 Calculations and Basic Formulas in Microsoft Excel,0,0.0,0,0.0,0,0.0
+How does the Drawings tool in Google Docs work?,4.5 Working with Graphics and Text Tools in Google Docs,0,0.0,1,0.3333333333333333,1,0.2
+What is software?,2.1 Software Basics,0,0.0,0,0.0,0,0.0
+What are the two views in Microsoft Access that you can use to customize a form?,13.6 Creating Forms in Microsoft Access,0,0.0,0,0.0,0,0.0
+What are the features of a content management system that control each part of the content management lifecycle?,8.1 What Are Content Management Systems?,0,0.0,1,0.3333333333333333,1,0.2
+How do you use the MINUS and DIVIDE functions in Google Sheets?,9.7 Calculations and Basic Formulas in Google Sheets,1,1.0,1,0.3333333333333333,1,0.2
+What is the process of creating a new table in Google Sheets?,9.6 Text and Numbers in Google Sheets,0,0.0,0,0.0,1,0.2
+How can you format data in Excel to match the contents of the data?,9.2 Text and Numbers in Microsoft Excel,1,1.0,1,0.3333333333333333,1,0.2
+What are the disadvantages of using a CMS?,8.2 Common Content Management Systems,0,0.0,0,0.0,0,0.0
+How can you display information as an icon in the Word document rather than showing an image of the linked or embedded information?,15.2 Microsoft Word: Integration with Microsoft Excel and Microsoft Access,1,1.0,1,0.3333333333333333,1,0.2
+How can you share slides with others in Google Slides?,7.4 Preparing a Google Slides Collection for Presentation,0,0.0,0,0.0,0,0.0
+How can scatter plots be used to show the relationship between two variables?,11.5 Data Analysis Charts,1,1.0,1,0.3333333333333333,1,0.2
+What is the purpose of communication of results to those outside of the organization?,12.1 Basic Accounting,1,1.0,1,0.3333333333333333,1,0.2
+"How can you create, change, or remove joins in Access?",13.3 Querying a Database,0,0.0,0,0.0,0,0.0
+What is the purpose of the List Formulas tool?,11.4 PivotTables/Charts,1,1.0,1,0.3333333333333333,1,0.2
+What is the difference between a fillable form and a non-fillable form?,5.3 Creating Forms in Microsoft Word,1,1.0,1,0.3333333333333333,1,0.2
+How does the Tools menu in Google Docs differ from the Tools menu in Word?,3.8 Collaborative Editing and Reviewing in Google Docs,1,1.0,1,0.3333333333333333,1,0.2
+What is the result of the following formula: (5-3)*2?,9.3 Calculations and Basic Formulas in Microsoft Excel,0,0.0,0,0.0,0,0.0
+What is an example of a situation where you would use the Scenario Manager?,11.3 What-If Analysis,1,1.0,1,0.3333333333333333,1,0.2
+What are the advantages of using What-If Analysis?,11.3 What-If Analysis,1,1.0,1,0.3333333333333333,1,0.2
+How can you adjust the spacing of text on a slide in Google Slides?,6.6 Creating Google Slides: Layout and Text,1,1.0,1,0.3333333333333333,1,0.2
+What does Docs let you create and publish your own templates?,5.4 Creating Different Document Types in Google Docs,1,1.0,1,0.3333333333333333,1,0.2
+What are slicers and how are they used in PivotTables and Data Tables?,11.4 PivotTables/Charts,1,1.0,1,0.3333333333333333,1,0.2
+What is the difference between the action bar and the Format menu in Google Slides?,6.6 Creating Google Slides: Layout and Text,1,1.0,1,0.3333333333333333,1,0.2
+What are the benefits of having a version history in Docs and Word?,3.9 Versions and Version History,0,0.0,0,0.0,0,0.0
+How can the References tab be used to generate a table of figures?,4.3 Managing Long Documents in Microsoft Word,1,1.0,1,0.3333333333333333,1,0.2
+How does creating a plan or storyboard of a presentation differ from outlining an essay?,6.1 Presentation and Design Essentials,1,1.0,1,0.3333333333333333,1,0.2
+How can databases be used for applications within a business?,13.1 What Is a Database?,1,1.0,1,0.3333333333333333,1,0.2
+What are the features of Microsoft Teams and Slack that make them suitable for virtual workspaces?,2.3 Communication and Calendar Applications,1,1.0,1,0.3333333333333333,1,0.2
+How can you open an existing document or start from a template in PowerPoint?,6.2 Designing a Presentation in Microsoft PowerPoint,1,1.0,1,0.3333333333333333,1,0.2
+What is the difference between the Scenario Manager and Goal Seek?,11.3 What-If Analysis,1,1.0,1,0.3333333333333333,1,0.2
+How can businesses use social media to connect with existing customers?,8.5 Social Media in Business,1,1.0,1,0.3333333333333333,1,0.2
+How does cloud computing benefit businesses?,"1.3 The Internet, Cloud Computing, and the Internet of Things",1,1.0,1,0.3333333333333333,1,0.2
+What are the main components of a CMS?,8.2 Common Content Management Systems,0,0.0,0,0.0,0,0.0
+What are the three key factors to consider when preparing for a presentation?,7.1 Effective Presentation Skills,0,0.0,0,0.0,0,0.0
+What is the main importance of computer safety and security in a companyâs operations?,"1.4 Safety, Security, Privacy, and the Ethical Use of Technology",1,1.0,1,0.3333333333333333,1,0.2
+What is a spreadsheet?,9.1 Microsoft Excel Basics,0,0.0,0,0.0,1,0.2
+How can you download the results from a Google Form into Google Sheets for data analysis?,5.5 Creating Forms in Google Docs,1,1.0,1,0.3333333333333333,1,0.2
+What is the Paste Special method in Excel used for?,10.6 Advanced Formatting Techniques,1,1.0,1,0.3333333333333333,1,0.2
+What are the benefits of using the Page Background command group tools?,3.5 Document Design,1,1.0,1,0.3333333333333333,1,0.2
+What is the difference between textual and visual information on a slide?,6.4 Adding Visuals and Features to Microsoft PowerPoint Slides,1,1.0,1,0.3333333333333333,1,0.2
+What are the different themes that can be applied to a Google Form?,5.5 Creating Forms in Google Docs,0,0.0,1,0.3333333333333333,1,0.2
+What is a business plan and how can it be created?,5.1 Creating Different Document Types in Microsoft Word,1,1.0,1,0.3333333333333333,1,0.2
+How can the Format Painter tool be used in a document?,4.3 Managing Long Documents in Microsoft Word,0,0.0,1,0.3333333333333333,1,0.2
+What are some techniques for optimizing your website for effective searches?,8.4 Search Engine Optimization,1,1.0,1,0.3333333333333333,1,0.2
